@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @milenehaas
 - 👀 I’m interested in aprender linguagem de programação.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...fazer programaçoẽs na disciplina de pensamento computacional.
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
